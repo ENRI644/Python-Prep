@@ -10,11 +10,10 @@
 
 
 
+
 # 2) Imprimir el tipo de dato de la constante 8.5
 
 # In[3]:
-
-
 
 
 
